@@ -10,7 +10,7 @@ try {
     docsRoot: "",
 
     backend: "github",
-    githubRepo: "Fila-Hoim/myst-editor-test",
+    githubRepo: "FreekPols/myst-editor-test",
     // Sign-in: with no relay configured, people sign in with a fine-grained token for this repository
     // (the editor explains how). For one-click sign-in through a GitHub App, deploy the relay from
     // myst-editor/tools/github-token-relay and fill in:
