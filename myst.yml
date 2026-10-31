@@ -2,7 +2,7 @@
 version: 1
 project:
   title: TU Delft's JB Starterkit
-  # description:
+
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
   github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
