@@ -48,7 +48,7 @@ extends:
   - options.yml         # includes project-specific options and metadata
   
 site:
-  template: book-theme
+  template: https://github.com/myst-templates/book-theme/archive/23f2df5493e23dfb1d9433c8aa64c87beb4232a3.zip
 
   # styling options with logo's and custom css
   options:
