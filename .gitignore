@@ -5,3 +5,4 @@ _build
 
 .pixi/*
 !.pixi/config.toml
+.env
